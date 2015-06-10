@@ -1,7 +1,7 @@
 {
     "version": "2.0.0",
-    "summary": "Typed styles for use with elm-html",
-    "repository": "https://github.com/identicalsnowflake/elm-typed-styles.git",
+    "summary": "Fork of identicalsnowflake/elm-typed-styles: Typed styles for use with elm-html",
+    "repository": "https://github.com/avh4/elm-typed-styles.git",
     "license": "MIT",
     "source-directories": [
         "src"
